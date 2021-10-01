@@ -3,7 +3,6 @@
 <!--
 **Nishchhal15unaffected/Nishchhal15unaffected** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
 
 - :zap: I love Programming, Web App Devlopement and exploring new tech
 - 🌱 I’m addicted to learning and growing every day
